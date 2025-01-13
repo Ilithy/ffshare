@@ -3,6 +3,7 @@
 - [Introduction](##Introduction)
 - [Compliance with data regulations](##compliance-with-data-regulations)
 - [Android permissions requested by the application](##android-permissions-requested-by-the-application)
+- [Contact](##contact)
 - [License](##license)
 
 ## Introduction
