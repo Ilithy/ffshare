@@ -28,13 +28,13 @@ This privacy policy covers the use of the **['ffShare'](https://github.com/cayde
 ## Android permissions requested by the application
 Note that ffShare application __optionally__ requires the following android platform permissions:
 
-* "READ_EXTERNAL_STORAGE": android permission in order to be able to perform file access to store user's multimedia files. Only at the user consent.
+* "READ_EXTERNAL_STORAGE": android permission in order to store user's multimedia files. _Only at the user consent_.
 
 <!-- * "POST_NOTIFICATIONS": android permission in order to be able to Show notifications. - Not useful actually -->
 
 ## Contact                                                                      
 
-If you have any questions regarding this privacy policy, you can contact the [developer](ffshare-caydey@protonmail.com)
+If you have any questions regarding this privacy policy, you can contact the developer at ffshare-caydey@protonmail.com
 
 ## License
 [GNU General Public License v3.0](www.gnu.org/licenses/gpl.html)
